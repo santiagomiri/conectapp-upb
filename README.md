@@ -1,6 +1,6 @@
-# ConectAPP UPB
+# ConectAPP Latam
 
-ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad Pontificia Bolivariana conectar con profesores y otros estudiantes avanzados para agendar clases.
+ConectAPP Latam es una aplicación que permite a los estudiantes de la Universidad Pontificia Bolivariana conectar con profesores y otros estudiantes avanzados para agendar clases.
 
 ## Características
 
